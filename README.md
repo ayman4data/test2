@@ -8,8 +8,8 @@ SQL queries? Check them out here: [project_sql folder](/project_sql/) .
 Driven by a quest to navigate the data analyst job market more effectively, this project was born
 desire to pinpoint top-paid and in-demand
 streamlining others work to find optimal jobs
-Data hails from this youtuber's course [SQL Course] (https://
-lukebarousse.com/sql). It's tacked with insights
+Data hails from this YouTuber's course [SQL Course] (https://lukebarousse.com/sql).
+It's tacked with insights
 on job titles, salaries, locations, and essential
 skills.
 The questions I wanted to answer through my
